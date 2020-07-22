@@ -9,7 +9,9 @@ I am a Site Reliability Engineer currently working for @Bambora out of Victoria,
 
 - 🔭 I’m currently working on visulizing variable time series data. 
 - 🌱 I’m currently learning all things Hashicorp. (One day I'll get there)
-- 👯 I’m looking to collaborate on an app with Amazon Store and Refereral API (Inquire within)
+- 👯 I’m looking to collaborate on 
+    - an app with Amazon Store and Refereral API (Inquire within)
+    - A way to predict the capacity of BC Ferries at a given time using historical data
 - 💬 Talk to me about 
     - The Phoenix Project by Gene Kim
     - Any papers I wrote https://etm.id.au
