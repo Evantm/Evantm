@@ -15,7 +15,7 @@ I am a Site Reliability Engineer currently working for [@Bambora](https://github
 - 💬 Talk to me about 
     - Any papers I wrote https://etm.id.au / https://scholar.google.com/citations?user=nax947IAAAAJ
     - Books! 📚
-        - The Phoneix Project 
+        - The Phoenix Project
         - The Design of Everyday Things
         - The Last Lecture
         - How Not to Be Wrong
