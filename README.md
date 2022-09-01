@@ -19,12 +19,12 @@ I am a Site Reliability Engineer / DevOps out of Vancouver, British Columbia, Ca
         - The Unicorn Project
         - Kill it with Fire 
         - Docs for Developers
-        - Slack
         - Team Topologies
         - Accelerate
         - Behind Human Error
         - The Checklist Manifesto
         - Slack: Getting Past Burnout, Busywork, and the Myth of Total Efficiency
+        - Your Code as a Crime Scene
 - 📫 How to reach me: 
     - etmackay@gmail.com
     - Avian Carriers [RFC 2549](https://twitter.com/Evantm_)
